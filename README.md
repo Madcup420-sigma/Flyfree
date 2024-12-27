@@ -1,4 +1,4 @@
-Curently in beta, its a mod for hypixel skyblock
+Curently in beta, its a mod for hypixel skyblock. 
 T'is a command interface in Minecraft for now, such commands are
 /search                                 #search any auction by price and item
 /dungeoncrack                           #helps you solve dungeons
